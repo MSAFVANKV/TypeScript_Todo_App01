@@ -1,0 +1,25 @@
+// var name:String = 'safvan'
+// let age: number = 5
+// // ==================
+// let union : String | number; // using ' | 'this we assgin more types
+// union = 4;
+// union = "saf"
+// // ==================
+// let isStudent :Boolean;
+// isStudent=true
+// // ============== ===
+// let hobbies: String[];
+// hobbies=[ "Reading", "Coding" , "Sports"]
+// // ==================
+// type Person = {
+//   firstName: string,
+//   age?:number, // the ? is for optional no problem if we not added age no error!!
+// }
+// let person:Person = {
+//   firstName:"John",
+//   age:22
+// }
+// // ==================
+
+// let arrays : Person[]
+// arrays = [person,{firstName:'Alex',age:30}]
